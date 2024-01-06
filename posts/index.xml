@@ -22,10 +22,17 @@
 sudo apt update sudo apt upgrade sudo apt dist-upgrade Autoremove: Remove packages that were automatically installed to satisfy dependencies but are no longer needed:</description>
     </item>
     <item>
-      <title>How to install python on windows</title>
+      <title>Free Game Offers On Epic Store</title>
       <link>https://kavishka.online/posts/general/free-game-offers-on-epic-store/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Fri, 07 Jan 2022 13:00:00 +0000</pubDate>
       <guid>https://kavishka.online/posts/general/free-game-offers-on-epic-store/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>How To Debug A Hugo Website</title>
+      <link>https://kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</link>
+      <pubDate>Fri, 07 Jan 2022 13:00:00 +0000</pubDate>
+      <guid>https://kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
