@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>itzKavishka</title>
-    <link>https://kavishka.online/</link>
+    <link>https://www.kavishka.online/</link>
     <description>Recent content on itzKavishka</description>
     <image>
       <title>itzKavishka</title>
-      <url>https://kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Nov 2023 02:03:32 +0530</lastBuildDate>
-    <atom:link href="https://kavishka.online/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.kavishka.online/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Clean Up a Debian OS</title>
-      <link>https://kavishka.online/posts/linux/how-to-clean-up-a-debian-os/</link>
+      <link>https://www.kavishka.online/posts/linux/how-to-clean-up-a-debian-os/</link>
       <pubDate>Fri, 24 Nov 2023 02:03:32 +0530</pubDate>
-      <guid>https://kavishka.online/posts/linux/how-to-clean-up-a-debian-os/</guid>
+      <guid>https://www.kavishka.online/posts/linux/how-to-clean-up-a-debian-os/</guid>
       <description>Introduction: Debian, known for its stability and reliability, can benefit from occasional cleanup to free up disk space and enhance system performance. In this guide, we&amp;rsquo;ll walk through essential steps to tidy up your Debian OS. Update and Upgrade: Keeping your system up-to-date is crucial. Run the following commands to ensure you have the latest software versions:
 sudo apt update sudo apt upgrade sudo apt dist-upgrade Autoremove: Remove packages that were automatically installed to satisfy dependencies but are no longer needed:</description>
     </item>
     <item>
       <title>Free Game Offers On Epic Store</title>
-      <link>https://kavishka.online/posts/general/free-game-offers-on-epic-store/</link>
+      <link>https://www.kavishka.online/posts/general/free-game-offers-on-epic-store/</link>
       <pubDate>Fri, 07 Jan 2022 13:00:00 +0000</pubDate>
-      <guid>https://kavishka.online/posts/general/free-game-offers-on-epic-store/</guid>
+      <guid>https://www.kavishka.online/posts/general/free-game-offers-on-epic-store/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>How To Debug A Hugo Website</title>
-      <link>https://kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</link>
+      <link>https://www.kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</link>
       <pubDate>Fri, 07 Jan 2022 13:00:00 +0000</pubDate>
-      <guid>https://kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</guid>
+      <guid>https://www.kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>How to install software using powershell on windows</title>
-      <link>https://kavishka.online/posts/windows/how-to-install-softwares-using-powershell-on-windows/</link>
+      <link>https://www.kavishka.online/posts/windows/how-to-install-softwares-using-powershell-on-windows/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://kavishka.online/posts/windows/how-to-install-softwares-using-powershell-on-windows/</guid>
+      <guid>https://www.kavishka.online/posts/windows/how-to-install-softwares-using-powershell-on-windows/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://kavishka.online/about/</link>
+      <link>https://www.kavishka.online/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://kavishka.online/about/</guid>
+      <guid>https://www.kavishka.online/about/</guid>
       <description>Hugo, the world’s fastest framework for building websites</description>
     </item>
   </channel>

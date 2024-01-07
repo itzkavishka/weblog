@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on itzKavishka</title>
-    <link>https://kavishka.online/categories/general/</link>
+    <link>https://www.kavishka.online/categories/general/</link>
     <description>Recent content in General on itzKavishka</description>
     <image>
       <title>itzKavishka</title>
-      <url>https://kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jan 2022 13:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kavishka.online/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.kavishka.online/categories/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Free Game Offers On Epic Store</title>
-      <link>https://kavishka.online/posts/general/free-game-offers-on-epic-store/</link>
+      <link>https://www.kavishka.online/posts/general/free-game-offers-on-epic-store/</link>
       <pubDate>Fri, 07 Jan 2022 13:00:00 +0000</pubDate>
-      <guid>https://kavishka.online/posts/general/free-game-offers-on-epic-store/</guid>
+      <guid>https://www.kavishka.online/posts/general/free-game-offers-on-epic-store/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>How To Debug A Hugo Website</title>
-      <link>https://kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</link>
+      <link>https://www.kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</link>
       <pubDate>Fri, 07 Jan 2022 13:00:00 +0000</pubDate>
-      <guid>https://kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</guid>
+      <guid>https://www.kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
