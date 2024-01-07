@@ -6,20 +6,20 @@
     <description>Recent content in Windows on itzKavishka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jan 2022 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://www.kavishka.online/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to install software using powershell on windows</title>
+      <link>https://www.kavishka.online/posts/windows/how-to-install-softwares-using-powershell-on-windows/</link>
+      <pubDate>Thu, 04 Jan 2024 11:30:03 +0000</pubDate>
+      <guid>https://www.kavishka.online/posts/windows/how-to-install-softwares-using-powershell-on-windows/</guid>
+      <description>Desc Text.</description>
+    </item>
     <item>
       <title>How To Debug A Hugo Website</title>
       <link>https://www.kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</link>
       <pubDate>Fri, 07 Jan 2022 13:00:00 +0000</pubDate>
       <guid>https://www.kavishka.online/posts/windows/how-to-debug-a-hugo-website-v3/</guid>
-      <description>Desc Text.</description>
-    </item>
-    <item>
-      <title>How to install software using powershell on windows</title>
-      <link>https://www.kavishka.online/posts/windows/how-to-install-softwares-using-powershell-on-windows/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://www.kavishka.online/posts/windows/how-to-install-softwares-using-powershell-on-windows/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
