@@ -22,11 +22,11 @@
       
       <item>
         <title>How to Clean Up a Debian OS</title>
-        <link>http://kavishka.online/en/posts/linux/how-to-clean-up-a-debian-os/</link>
+        <link>http://kavishka.online/en/en/posts/linux/how-to-clean-up-a-debian-os/</link>
         <pubDate>Fri, 24 Nov 2023 02:03:32 +0530</pubDate>
         <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
         <atom:modified>Fri, 24 Nov 2023 02:03:32 +0530</atom:modified>
-        <guid>http://kavishka.online/en/posts/linux/how-to-clean-up-a-debian-os/</guid>
+        <guid>http://kavishka.online/en/en/posts/linux/how-to-clean-up-a-debian-os/</guid>
         <description>Introduction: Debian, known for its stability and reliability, can benefit from occasional cleanup to free up disk space and enhance system performance. In this guide, we&amp;rsquo;ll walk through essential steps to tidy up your Debian OS. Update and Upgrade: Keeping your system up-to-date is crucial. Run the following commands to ensure you have the latest software versions:
 1 2 3 sudo apt update sudo apt upgrade sudo apt dist-upgrade Autoremove: Remove packages that were automatically installed to satisfy dependencies but are no longer needed:</description>
         

@@ -22,11 +22,11 @@
       
       <item>
         <title>Free Game Offers On Epic Store</title>
-        <link>http://kavishka.online/en/posts/general/free-game-offers-on-epic-store/</link>
+        <link>http://kavishka.online/en/en/posts/general/free-game-offers-on-epic-store/</link>
         <pubDate>Sun, 07 Jan 2024 13:00:00 +0000</pubDate>
         <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
         <atom:modified>Sun, 07 Jan 2024 13:00:00 +0000</atom:modified>
-        <guid>http://kavishka.online/en/posts/general/free-game-offers-on-epic-store/</guid>
+        <guid>http://kavishka.online/en/en/posts/general/free-game-offers-on-epic-store/</guid>
         <description></description>
         
         <dc:creator>Kavishka Dahanayaka</dc:creator>
@@ -64,11 +64,11 @@
       
       <item>
         <title>How To Debug A Hugo Website</title>
-        <link>http://kavishka.online/en/posts/windows/how-to-debug-a-hugo-website-v3/</link>
+        <link>http://kavishka.online/en/en/posts/windows/how-to-debug-a-hugo-website-v3/</link>
         <pubDate>Thu, 04 Jan 2024 13:00:00 +0000</pubDate>
         <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
         <atom:modified>Thu, 04 Jan 2024 13:00:00 +0000</atom:modified>
-        <guid>http://kavishka.online/en/posts/windows/how-to-debug-a-hugo-website-v3/</guid>
+        <guid>http://kavishka.online/en/en/posts/windows/how-to-debug-a-hugo-website-v3/</guid>
         <description></description>
         
         <dc:creator>Kavishka Dahanayaka</dc:creator>
@@ -98,11 +98,11 @@
       
       <item>
         <title>How to install software using powershell on windows</title>
-        <link>http://kavishka.online/en/posts/windows/how-to-install-softwares-using-powershell-on-windows/</link>
+        <link>http://kavishka.online/en/en/posts/windows/how-to-install-softwares-using-powershell-on-windows/</link>
         <pubDate>Mon, 01 Jan 2024 11:30:03 +0000</pubDate>
         <author>xkavishka@outlook.com (Kavishka Dahanayaka)</author>
         <atom:modified>Mon, 01 Jan 2024 11:30:03 +0000</atom:modified>
-        <guid>http://kavishka.online/en/posts/windows/how-to-install-softwares-using-powershell-on-windows/</guid>
+        <guid>http://kavishka.online/en/en/posts/windows/how-to-install-softwares-using-powershell-on-windows/</guid>
         <description>Streamlining Software Installation with PowerShell and Chocolatey Introduction: Installing and managing software on a Windows system can be a time-consuming task, especially when dealing with multiple applications. PowerShell, a powerful scripting language and automation framework, comes to the rescue when it comes to automating repetitive tasks. In this article, we will explore how to simplify software installation on Windows using PowerShell and Chocolatey, a package manager for Windows.
 What is Chocolatey?</description>
         
