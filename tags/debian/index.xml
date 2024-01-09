@@ -4,6 +4,11 @@
     <title>debian on itzKavishka</title>
     <link>https://www.kavishka.online/tags/debian/</link>
     <description>Recent content in debian on itzKavishka</description>
+    <image>
+      <title>itzKavishka</title>
+      <url>https://www.kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Dec 2023 02:03:32 +0530</lastBuildDate>

@@ -4,6 +4,11 @@
     <title>Gaming on itzKavishka</title>
     <link>https://www.kavishka.online/categories/gaming/</link>
     <description>Recent content in Gaming on itzKavishka</description>
+    <image>
+      <title>itzKavishka</title>
+      <url>https://www.kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.kavishka.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jan 2022 13:00:00 +0000</lastBuildDate>
